@@ -4,7 +4,7 @@ Copyright (C) 1991-2012, Thomas G. Lane, Guido Vollbeding.
 This file is part of the Independent JPEG Group's software.
 For conditions of distribution and use, see the accompanying README file.
 
-
+ 
 This file provides an overview of the architecture of the IJG JPEG software;
 that is, the functions of the various modules in the system and the interfaces
 between modules.  For more precise details about any data structure or calling
