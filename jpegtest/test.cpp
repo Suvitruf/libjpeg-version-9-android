@@ -6,7 +6,6 @@ extern "C" {
 #include <jpeglib.h>
 }
 
-
 extern AAssetManager *mgr;
 
 
